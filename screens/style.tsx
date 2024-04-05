@@ -1,5 +1,5 @@
 /* eslint-disable prettier/prettier */
-import { StyleSheet } from 'react-native';
+import { StyleSheet  } from 'react-native';
 
 export const styles = StyleSheet.create({
   // start page container
@@ -71,8 +71,8 @@ export const styles = StyleSheet.create({
     color: '#989898',
     paddingLeft: 50,
     marginTop: 44,
-    marginLeft: '8%',
-    marginRight: '8%',
+    // marginLeft: '8%',
+    // marginRight: '8%',
   },
   imghome: { // img of home page divaider
     height: 150,
